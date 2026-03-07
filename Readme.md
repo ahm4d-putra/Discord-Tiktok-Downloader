@@ -29,7 +29,7 @@ Bot Discord buat download video TikTok tanpa watermark, plus fitur moderasi serv
 ## Cara Install
 
 **1. Clone repo**
-```bash
+bash
 git clone https://github.com/username/discord-tiktok-bot.git
 cd discord-tiktok-bot
 ```
