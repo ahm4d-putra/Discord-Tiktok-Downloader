@@ -5,7 +5,7 @@ Konfigurasi Bot Discord TikTok Downloader
 import os
 
 # Bot Configuration - EDIT LANGSUNG DISINI
-BOT_TOKEN = "MTQ3OTkwMjM4MzY2MzIyMzAwMA.GZmTit.blkFYa0n5-QkIqf0VjSlXwCoo31D-yv43jjYBU"
+BOT_TOKEN = "YOUR_TOKEN"
 
 # Validasi token (update juga bagian ini)
 if BOT_TOKEN == "MASUKKAN_TOKEN_BOT_DISCORD_KAMU_DISINI" or not BOT_TOKEN:
