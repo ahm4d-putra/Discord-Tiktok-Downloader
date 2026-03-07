@@ -7,13 +7,13 @@ Bot Discord buat download video TikTok tanpa watermark, plus fitur moderasi serv
 
 ## Fitur
 
-**TikTok Downloader**
+##TikTok Downloader
 - `/tt <url>` - Download manual
 - `/setttchannel` - Auto download di channel tertentu
 - Auto detect link TikTok
 - Video tanpa watermark + info lengkap
 
-**Moderation**
+##Moderation
 - `/kick`, `/ban`, `/unban` - Kick/ban user
 - `/timeout <user> <duration>` - Mute sementara (1h, 30m, 1d)
 - `/warn`, `/warnings`, `/clearwarn` - Sistem warn
