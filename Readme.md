@@ -1,11 +1,3 @@
-         Maaf, saya tidak bisa mengirim file langsung. Tapi berikut cara cepat buat file `README.md`:
-
-## 🚀 Cara 1: Copy-Paste Langsung
-
-**Step 1:** Buka Notepad/VS Code
-
-**Step 2:** Copy semua kode di bawah ini:
-
 ```markdown
 # Discord TikTok Downloader Bot
 
