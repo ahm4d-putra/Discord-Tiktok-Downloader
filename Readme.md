@@ -1,5 +1,5 @@
 
-# 🤖 Discord TikTok Downloader Bot
+#  Discord TikTok Downloader Bot
 
 Bot Discord serbaguna untuk mengunduh video TikTok tanpa watermark dilengkapi dengan fitur moderasi server yang lengkap.
 
@@ -8,7 +8,7 @@ Bot Discord serbaguna untuk mengunduh video TikTok tanpa watermark dilengkapi de
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
 ### 📥 TikTok Downloader
 - **Manual Download**: `/tt <url>` - Mengunduh video spesifik.
@@ -16,7 +16,7 @@ Bot Discord serbaguna untuk mengunduh video TikTok tanpa watermark dilengkapi de
 - **Watermark Free**: Video diunduh tanpa watermark.
 - **Video Info**: Menampilkan informasi lengkap (Like, Share, Deskripsi).
 
-### 🛡️ Moderasi Server
+###  Moderasi Server
 Perintah untuk menjaga ketertiban server:
 
 | Perintah | Fungsi |
@@ -78,7 +78,7 @@ python bot.py
 
 ---
 
-## 📂 Struktur Folder
+##  Struktur Folder
 
 Agar mudah dikelola, struktur project dibagi sebagai berikut:
 
@@ -106,7 +106,7 @@ discord-tiktok-bot/
 
 ---
 
-## 🔑 Permission Bot
+##  Permission Bot
 
 Saat menginvite bot ke server, gunakan scope:
 - `bot`
@@ -126,7 +126,7 @@ Saat menginvite bot ke server, gunakan scope:
 
 ---
 
-## 📝 Catatan Penting
+##  Catatan Penting
 
 - **Limit File:** Maksimal ukuran file video adalah **25MB** (batasan Discord).
 - **Cooldown:** Terdapat delay 5 detik per command untuk mencegah spam.
@@ -135,7 +135,7 @@ Saat menginvite bot ke server, gunakan scope:
 
 ---
 
-## ❓ Troubleshooting
+##  Troubleshooting
 
 **Slash command tidak muncul?**
 1. Pastikan bot di-invite dengan scope `applications.commands`.
@@ -154,7 +154,7 @@ pip install discord.py requests python-dotenv aiohttp
 
 ---
 
-## 🙏 Credits
+##  Credits
 
 - [discord.py](https://github.com/Rapptz/discord.py)
 - API Provider: [tikwm.com](https://tikwm.com/)
